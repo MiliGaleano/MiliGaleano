@@ -22,7 +22,7 @@
 
 <br><br>
 **Find me:**
-<br>Email: mmiligaleano@gmail.com
+<br>mmiligaleano@gmail.com
 <br>[behance](https://www.behance.net/MiliGaleano)
 <br>[linkedin](https://www.linkedin.com/in/milagros-galeano/)
 
