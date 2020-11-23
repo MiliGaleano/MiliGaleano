@@ -17,7 +17,7 @@
 <br>A watchlist app where you can keep track of the things you have watched, make your favourites list and find new things to watch.
 * [VacunAr App](https://github.com/MiliGaleano/VacunAr)
 <br>An app to keep your Immunization registry organized. Save your vaccination records and find the nearest place to take your next vaccine.
-* [My website](https://miligaleano.github.io/MyWebsite/)
+* [My website](https://miligaleano.github.io/myweb/)
 <br>That's it :sweat_smile:. Watch my work, know a little about me or leave me a message.
 
 <br><br>
