@@ -1,4 +1,7 @@
-![thanks for watching](https://i.ibb.co/pLhwb9L/readme.jpg)
+
+<p align="center">
+  <img width="100%" src="https://j.gifs.com/lxzNog.gif">
+</p>
 <br><br>
 <p align="center"><strong>hi!</strong></p>
 
