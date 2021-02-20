@@ -14,7 +14,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<br><br><br>
+<br><br>
 **Currently learning :books:**
 <br><br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -23,11 +23,11 @@
 <br><br>
 **Some of my projects:**
 <br>
-<br>  [<img width="20px" src="https://i.ibb.co/KG2qbKH/faviconasas-01.png"/>](https://miligaleano.github.io/myweb/)
+<br>  [<img width="20px" src="https://i.ibb.co/KG2qbKH/faviconasas-01.png"/>](https://miligaleano.github.io/BLessed-App)
  [ - BLessed App](https://miligaleano.github.io/BLessed-App)
 <br>A watchlist app where you can keep track of the things you have watched, make your favourites list and find new things to watch.
 <br>
-<br>  [<img width="20px" src="https://i.ibb.co/Gd5NS2K/favicon.png"/>](https://miligaleano.github.io/myweb/)
+<br>  [<img width="20px" src="https://i.ibb.co/Gd5NS2K/favicon.png"/>](https://github.com/MiliGaleano/VacunAr)
  [ - VacunAr App](https://github.com/MiliGaleano/VacunAr)
 <br>An app to keep your Immunization registry organized. Save your vaccination records and find the nearest place to take your next vaccine.
 <br>
@@ -39,7 +39,7 @@
 **Find me:**
 <br>[<img width="30px" src="https://i.ibb.co/F44rcPd/behance.png"/>](https://www.behance.net/MiliGaleano)
 [<img width="30px" src="https://i.ibb.co/sJyM5Rx/linkedin.png"/>](https://www.linkedin.com/in/milagros-galeano/)
-<br><br>mmiligaleano@gmail.com
+<br>mmiligaleano@gmail.com
 
 
 
