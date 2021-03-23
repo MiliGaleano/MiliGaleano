@@ -24,8 +24,8 @@
 **Some of my projects:**
 <br>
 <br>  [<img width="20px" src="https://i.ibb.co/KG2qbKH/faviconasas-01.png"/>](https://miligaleano.github.io/BLessed-App)
- [ - BLessed App](https://miligaleano.github.io/BLessed-App)
-<br>A watchlist app where you can keep track of the things you have watched, make your favourites list and find new things to watch.
+ [ - BLessed App](https://miligaleano.github.io/BLessed-React-App/)
+<br>A watchlist app where you can keep track of the things you have watched, make your favourites list and find new things to watch. React.js/Firebase
 <br>
 <br>  [<img width="20px" src="https://i.ibb.co/Gd5NS2K/favicon.png"/>](https://github.com/MiliGaleano/VacunAr)
  [ - VacunAr App](https://github.com/MiliGaleano/VacunAr)
