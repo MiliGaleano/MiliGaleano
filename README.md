@@ -25,15 +25,19 @@
 <br>
 <br>  [<img width="20px" src="https://i.ibb.co/KG2qbKH/faviconasas-01.png"/>](https://miligaleano.github.io/BLessed-App)
  [ - BLessed App](https://miligaleano.github.io/BLessed-React-App/)
-<br>A watchlist app where you can keep track of the things you have watched, make your favourites list and find new things to watch. React.js/Firebase
+<br>A watchlist app where you can keep track of the things you have watched, make your favourites list and find new things to watch. 
+React.js/Firebase
 <br>
 <br>  [<img width="20px" src="https://i.ibb.co/Gd5NS2K/favicon.png"/>](https://github.com/MiliGaleano/VacunAr)
- [ - VacunAr App](https://github.com/MiliGaleano/VacunAr)
-<br>An app to keep your Immunization registry organized. Save your vaccination records and find the nearest place to take your next vaccine.
+ [ - VacunAr App](https://miligaleano.github.io/VacunAr)
+<br>An app to keep your Immunization registry organized. Save your vaccination records, download them in PDF, add appointments to Google calendar, read news and find the nearest place to take your next vaccine. 
+React.js/Firebase/Bootstrap
 <br>
 <br>  [<img width="20px" src="https://i.ibb.co/NxtYFMT/favicon3.png"/>](https://miligaleano.github.io/myweb/)
  [ - My website](https://miligaleano.github.io/myweb/)
-<br>That's it :sweat_smile:. Watch my work, know a little about me or leave me a message.
+<br>That's it :sweat_smile:. Watch my work, know a little about me and leave me a message.
+JavaScript/HTML5/CSS3
+
 
 <br><br>
 **Find me:**
