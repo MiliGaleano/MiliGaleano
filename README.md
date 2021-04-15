@@ -43,6 +43,7 @@ React.js / Firebase / Bootstrap / Here Maps / jsPDF / Google Calendar
 
 <br><br>
 **Find me:**
+<br>
 [<img width="30px" src="https://i.ibb.co/sJyM5Rx/linkedin.png"/>](https://www.linkedin.com/in/milagros-galeano/)
 <br>mmiligaleano@gmail.com
 
