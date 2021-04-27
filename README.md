@@ -35,9 +35,14 @@ React.js / Firebase
 
 React.js / Firebase / Bootstrap / Here Maps / jsPDF / Google Calendar
 <br>
-<br>  [<img width="20px" src="https://i.ibb.co/NxtYFMT/favicon3.png"/>](https://miligaleano.github.io/myweb/)
+<br>  [<img width="20px" src="https://i.ibb.co/SQVxbvv/m.png"/>](https://miligaleano.github.io/developer-portfolio/)
+ [ - My Developer Portfolio](https://miligaleano.github.io/developer-portfolio/)
+<br>Recopilation of my development projects!
+
+<br>
+<br>  [<img width="20px" src="https://i.ibb.co/NxtYFMT/favicon3.png"/>](https://miligaleano.github.io/MyWebsite/)
  [ - My website](https://miligaleano.github.io/MyWebsite/)
-<br>That's it :sweat_smile:. Watch my work, know a little about me and leave me a message.
+<br>That's it :sweat_smile:. Know a little about me and leave me a message.
 
 
 
